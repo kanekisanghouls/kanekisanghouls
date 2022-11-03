@@ -16,8 +16,9 @@ Languages: Python, JavaScript,
            HTML, CSS
 Learning: Node.js, C and C++, Java,
           and etc
-Hobbies: Coding/Reading/Sleeping/Editing
+Hobbies: Coding/Reading/Sleeping/Editing/Etc
 Discord: KanekiSanGhouls#1995
+My Discord Web: https://ccghouls.netlify.app/
 ```
 ---
 
