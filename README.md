@@ -5,7 +5,7 @@
 <img align="left" src="https://cdn.discordapp.com/attachments/907685213595897898/1037585487805812756/ccg.png" alt="Creator by: KanekiSanGhouls (https://kanekisanghouls.netlify.app/)" width="320" /> 
 
 ```csharp
-ayushsehrawat@github
+// My Profile
 -------------------------
 Name: KanekiSanGhouls
 Personality: Strict
