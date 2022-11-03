@@ -28,5 +28,5 @@ some consequences or bad karma.
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-
-Personal Organisations - [@kanekisanghouls](https://github.com/kanekisanghouls)
+<!--
+Personal Organisations - [@kanekisanghouls](https://github.com/kanekisanghouls)-->
