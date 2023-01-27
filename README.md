@@ -22,7 +22,7 @@ DO NOT EVER TRY TO USE MY NAME. YOU WILL GET BAD KARMA!
 ---
 
 <p align="center">
-     <a href=""><img width="32px" alt="" title="" src="https://cdn-icons-png.flaticon.com/512/1557/1557167.png"/></a>
+ &#8287;&#8287;&#8287;&#8287;&#8287;
   &#8287;&#8287;&#8287;&#8287;&#8287;
      <a href=""><img width="32px" alt="" title="" src="https://cdn-icons-png.flaticon.com/512/1557/1557167.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -34,7 +34,7 @@ DO NOT EVER TRY TO USE MY NAME. YOU WILL GET BAD KARMA!
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href=""><img width="32px" alt="" title="" src="https://cdn-icons-png.flaticon.com/512/1557/1557167.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-     <a href=""><img width="32px" alt="" title="" src="https://cdn-icons-png.flaticon.com/512/1557/1557167.png"/></a>
+
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
