@@ -18,7 +18,7 @@ Important to read:
 ⚠️ WARNING!
 What happens in the dark always comes to light.
 
-🛡️ This account is secured by Github. Please follow the
+🛡️This account is secured by Github. Please follow the
 Github Terms of Service and Github Community Guidelines.
 ========================================================
 ```
