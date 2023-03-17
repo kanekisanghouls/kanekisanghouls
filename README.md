@@ -14,12 +14,12 @@ This is the official Github of KanekiSanGhouls.
 My Portfolio
 🌹 https://kanekisanghouls.netlify.com
 
-This account is secured by Github. Please follow the
-Github Terms of Service and Github Community Guidelines.
-
 Important to read:
 ⚠️ WARNING!
 What happens in the dark always comes to light.
+
+🛡️ This account is secured by Github. Please follow the
+Github Terms of Service and Github Community Guidelines.
 ========================================================
 ```
 
