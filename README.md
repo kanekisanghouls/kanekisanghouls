@@ -23,7 +23,7 @@ Github Terms of Service and Github Community Guidelines.
 ========================================================
 ```
 
-// DO NOT STEAL
+⚠️ DO NOT STEAL ANYTHING INFORMATION OR ELSE YOUR ACCOUNTS AND YOUR FAMILY WILL GET BAD CONSEQUENCES. BE CAREFUL. I'M NOT JOKING.
 
 
 ---
