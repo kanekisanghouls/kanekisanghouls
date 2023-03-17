@@ -10,12 +10,13 @@
 ========================================================
 This is the official Github of KanekiSanGhouls.
 🥀 This person is no longer alive.
+
+My Portfolio
 🌹 https://kanekisanghouls.netlify.com
 
-⚠️ WARNING: DO NOT STEAL ANYTHING. DO NOT EVER TRY IT.
-DO NOT STALK ME OR ELSE YOU WILL GET SICK NONSTOP 24/7.
-DO NOT TRY TO STEAL ANY INFORMATION ABOUT ME.
-DO NOT EVER TRY TO USE MY NAME. YOU WILL GET BAD KARMA!
+Important to read:
+⚠️ WARNING!
+What happens in the dark always comes to light
 ========================================================
 ```
 
