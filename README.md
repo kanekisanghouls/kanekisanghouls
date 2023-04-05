@@ -9,7 +9,9 @@
 ```
 ========================================================
 This is the official Github of KanekiSanGhouls.
+Original | Original Account | </>
 🥀 This person is no longer alive.
+🖤 Eccedentesiast.
 
 My Portfolio
 🌹 https://kanekisanghouls.netlify.com
