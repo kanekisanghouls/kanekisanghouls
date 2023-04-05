@@ -35,12 +35,12 @@ Github Terms of Service and Github Community Guidelines.
   &#8287;&#8287;&#8287;&#8287;&#8287;
      <a href=""><img width="32px" alt="" title="" src="https://cdn-icons-png.flaticon.com/512/1557/1557167.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href=""><img width="32px" alt="" title="" src="https://cdn-icons-png.flaticon.com/512/1557/1557167.png"/></a>
+   <a href="https://docs.github.com/en/site-policy/github-terms/github-terms-of-service"><img width="32px" alt="" title="Github Terms of Service" src="https://cdn-icons-png.flaticon.com/512/1051/1051275.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dsc.gg/ccghouls" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://dsc.gg/ccghouls" alt="Join our community" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href=""><img width="32px" alt="" title="" src="https://cdn-icons-png.flaticon.com/512/1557/1557167.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines"><img width="32px" alt="" title="Github Community Guidelines" src="https://cdn-icons-png.flaticon.com/512/1051/1051275.png"/></a>
+ &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href=""><img width="32px" alt="" title="" src="https://cdn-icons-png.flaticon.com/512/1557/1557167.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
