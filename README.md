@@ -13,12 +13,13 @@ Original | Original Account | </>
 🥀 This person is no longer alive.
 🖤 Eccedentesiast.
 
-My Portfolio
-🌹 https://kanekisanghouls.netlify.com
+My Portfolio:
+🌹 https://kanekisanghoulsofficial.web.app
+   https://kanekisanghouls.netlify.app
 
 Important to read:
 ⚠️ WARNING!
-What happens in the dark always comes to light.
+Get bad consequences in your real life, if you stealing.
 
 🛡️This account is secured by Github. Please follow the
 Github Terms of Service and Github Community Guidelines.
