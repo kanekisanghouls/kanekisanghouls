@@ -6,22 +6,23 @@
 </p>
 
 <p>
-Hi 👋, I am KanekiSanGhouls. I do not need introduce myself to you but the most important thing is you are here and I'll be watching you always!
+👋 Hi, I am KanekiSanGhouls. I do not need introduce myself to you but the most important thing is you are here and I'll be watching you always!
 
 <div>
 <details>
   <summary>🥀 More about me!</summary>
-- This is the official Github of KanekiSanGhouls.
-- Original | Original Account | Developer
-- 🥀 This person is no longer alive.
-- 🖤 Eccedentesiast.
+  
+  - This is the official Github of KanekiSanGhouls.
+  
+  - Original | Original Account | Developer
+  
+  - 🥀 This person is no longer alive.
+  
+  - 🖤 Eccedentesiast.
 
-- My Portfolio:
-- 🌹 [Main Portfolio](https://kanekisanghoulsofficial.web.app) and [Second Portfolio](https://kanekisanghouls.netlify.app)
+- My Portfolio: 🌹 [Main Portfolio](https://kanekisanghoulsofficial.web.app) and [Second Portfolio](https://kanekisanghouls.netlify.app)
 
-- Important to read:
-- ⚠️ WARNING!
-- Get bad consequences in your real life, if you are steal my things.
+- Important to read (⚠️ WARNING!): Get bad consequences in your real life, if you are steal my things.
 
 - 🛡️This account is secured by Github. Please follow the [Github Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) and [Github Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines).
 
