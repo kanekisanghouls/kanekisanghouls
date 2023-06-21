@@ -17,8 +17,7 @@ Original | Original Account | Developer
 🖤 Eccedentesiast.
 
 My Portfolio:
-🌹 [Main Portfolio](https://kanekisanghoulsofficial.web.app) and [Second Portfolio
-(https://kanekisanghouls.netlify.app)
+🌹 [Main Portfolio](https://kanekisanghoulsofficial.web.app) and [Second Portfolio](https://kanekisanghouls.netlify.app)
 
 Important to read:
 ⚠️ WARNING!
