@@ -6,7 +6,7 @@
 </p>
 
 <p>
-Hi 👋, I am **KanekiSanGhouls**. 
+Hi 👋, I am KanekiSanGhouls. I do not need introduce myself to you but the most important thing is you are here and I'll be watching you always!
 
 <div>
 <details>
