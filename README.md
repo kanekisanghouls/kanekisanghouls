@@ -20,6 +20,8 @@
   
   - 🖤 Eccedentesiast.
 
+  - ✨ I want to make the world a better place before I die.
+
 - My Portfolio: 🌹 [Main Portfolio](https://kanekisanghoulsofficial.web.app) and [Second Portfolio](https://kanekisanghouls.netlify.app)
 
 - Important to read (⚠️ WARNING!): Get bad consequences in your real life, if you are steal my things.
