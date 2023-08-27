@@ -1,8 +1,6 @@
-<a href="https://discord.gg/KszUaCwTsQ"><img src="https://cdn.discordapp.com/attachments/946813221300477972/1120985563319767120/JOIN_NOW.png" width="100%" height="auto"/></a>
+<a href="https://discord.gg/KszUaCwTsQ"><img src="https://cdn.discordapp.com/attachments/1129989242622312458/1145265506291568660/1200x630-GitHub-Uni_23-Unfurl.png" width="100%" height="auto"/></a>
 <p align="center">
-  <a href="https://discord.gg/KszUaCwTsQ" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/kanekisanghouls"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+
 </p>
 
 <p>
@@ -17,6 +15,8 @@
   - ✨ I want to make the world a better place before I die.
 
 - ⛩️ My Personal Portfolio: [Main Portfolio](https://kanekisanghoulsofficial.web.app)
+
+- 🔗 Join my [Discord Community](https://discord.gg/KszUaCwTsQ) and [Donate Me/Buy me a Coffee](https://ko-fi.com/kanekisanghouls)
 
 - ⚠️ Do not steal anything information and please use your common sense and don't be a kid.
 
