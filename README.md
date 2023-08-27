@@ -1,6 +1,6 @@
 <a href="https://discord.gg/KszUaCwTsQ"><img src="https://cdn.discordapp.com/attachments/1129989242622312458/1145265506291568660/1200x630-GitHub-Uni_23-Unfurl.png" width="100%" height="auto"/></a>
 <p align="center">
-
+<h3 align="center">Welcome to my GitHub profile!</h3>
 </p>
 
 <p>
