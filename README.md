@@ -12,21 +12,15 @@
 <details>
   <summary>🥀 More about me!</summary>
   
-  - This is the official Github of KanekiSanGhouls.
-  
-  - Original | Original Account | Developer
-  
-  - 🥀 This person is no longer alive.
-  
-  - 🖤 Eccedentesiast.
+  - This is the official Github of KanekiSanGhouls. I am original, developer, and Eccedentesiast. I’m also an Introvert.
 
   - ✨ I want to make the world a better place before I die.
 
-- My Portfolio: 🌹 [Main Portfolio](https://kanekisanghoulsofficial.web.app) and [Second Portfolio](https://kanekisanghouls.netlify.app)
+- ⛩️ My Personal Portfolio: [Main Portfolio](https://kanekisanghoulsofficial.web.app)
 
-- Important to read (⚠️ WARNING!): Get bad consequences in your real life, if you are steal my things.
+- ⚠️ Do not steal anything information and please use your common sense and don't be a kid.
 
-- 🛡️This account is secured by Github. Please follow the [Github Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) and [Github Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines).
+- 🛡️ This account is secured by Github. Please follow the [Github Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) and [Github Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines).
 
 
 
@@ -40,3 +34,10 @@
   <a href="https://github.com/kanekisanghouls"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=kanekisanghouls&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/kanekisanghouls"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=kanekisanghouls&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
   </div>
+ 
+<footer>
+  <p align="center">
+    <br>
+    <strong>🛡️This account is secured by Github. Please follow the Github Terms of Serivce and Community Guidelines.</strong>
+  </p>
+</footer>
