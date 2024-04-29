@@ -1,4 +1,4 @@
-<a href="https://discord.gg/KszUaCwTsQ"><img src="https://cdn.discordapp.com/attachments/1129989242622312458/1145265506291568660/1200x630-GitHub-Uni_23-Unfurl.png" width="100%" height="auto"/></a>
+<a href="https://discord.gg/KszUaCwTsQ"><img src="https://cdn.discordapp.com/attachments/1129989242622312458/1145265506291568660/1200x630-GitHub-Uni_23-Unfurl.png?ex=662ffb5e&is=662ea9de&hm=427d321e7f9db6fb6f1dd659ec2e6660ac5ae919c8d7fd949de84d7fa7e1baf6&" width="100%" height="auto"/></a>
 <p align="center">
 <h3 align="center">Welcome to my GitHub profile!</h3>
 </p>
