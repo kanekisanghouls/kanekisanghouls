@@ -1,4 +1,4 @@
-<a href="https://discord.gg/KszUaCwTsQ"><img src="https://cdn.discordapp.com/attachments/1129989242622312458/1145265506291568660/1200x630-GitHub-Uni_23-Unfurl.png?ex=662ffb5e&is=662ea9de&hm=427d321e7f9db6fb6f1dd659ec2e6660ac5ae919c8d7fd949de84d7fa7e1baf6&" width="100%" height="auto"/></a>
+<a href="https://discord.gg/KszUaCwTsQ"><img src="https://cdn.discordapp.com/attachments/1129989242622312458/1145265506291568660/1200x630-GitHub-Uni_23-Unfurl.png?ex=6634989e&is=6633471e&hm=8f8d23bde2769e6b7fc50b94c0c98c6e6fd460644db4af1e09da8d03cc45d64a&" width="100%" height="auto"/></a>
 <p align="center">
 <h3 align="center">Welcome to my GitHub profile!</h3>
 </p>
@@ -29,7 +29,7 @@
 
 ## 📕 Github Stats:
 
-<img align="right" width="43%" src="https://cdn.discordapp.com/attachments/946813221300477972/1120981266955780157/HaiseSasaki.jpg"/>
+<img align="right" width="43%" src="https://cdn.discordapp.com/attachments/1129989242622312458/1235538704072708189/picture.png?ex=6634bc96&is=66336b16&hm=cec171b7d9825e2261cf7e10cf4e0fb20217764865522cec1708a112eff17aed&"/>
 
   <a href="https://github.com/kanekisanghouls"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=kanekisanghouls&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/kanekisanghouls"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=kanekisanghouls&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
